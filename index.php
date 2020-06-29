@@ -1,0 +1,1 @@
+<?php header('Location: /customize-your-lift-and-lock-arm.php')?>

@@ -1,0 +1,137 @@
+<!-- Menu -->
+<ul class="navbar">
+
+  <li id="home" class="menu" >
+    <a href="./index.php">
+      <p align="center">Home</p>
+    </a>
+  </li>
+  <li onmouseover="showSubMenu('aboutsubmenu')" onmouseout="hideSubMenu('aboutsubmenu')" id="about" class="menu">
+
+    <a href="./about-ideas.php">
+      <p align="center" >About</p>
+    </a>
+    <!-- Submenu about -->
+    <ul onmouseover="showSubMenu('aboutsubmenu')" onmouseout="hideSubMenu('aboutsubmenu')" class="submenu" id="aboutsubmenu" style="display: none;">
+      <li  class="menu" >
+        <a href="./what-we-do.php">
+          <p align="left" style="">What We Do</p>
+        </a>
+      </li>
+      <li class="menu">
+        <a href="./contact-us.php">
+          <p align="left" style="">Contact</p>
+        </a>
+      </li>
+    </ul>
+
+  </li>
+
+  <li  onmouseover="showSubMenu('newProjectsSubmenu')" onmouseout="hideSubMenu('newProjectsSubmenu')" id="whatsnew" class="menu" style="">
+    <a href="./new.php">
+      <p align="center">What's New</p>
+    </a>
+    <!-- 'what is new' submenu -->
+    <ul onmouseover="showSubMenu('newProjectsSubmenu')" onmouseout="hideSubMenu('newProjectsSubmenu')" class="submenu" id="newProjectsSubmenu" style="display:none;">
+      <li onclick="whatsnew(this)"  id="newprojects" class="menu" >
+        <a href="./what's-new.php">
+          <p align="left" >New Projects</p>
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li onmouseover="showSubMenu('liftAndLockSubmenu')" onmouseout="hideSubMenu('liftAndLockSubmenu')" id="liftandlock" class="menu">
+    <a href="./device-mounting.php">
+      <p align="center">Device Mounting</p>
+    </a>
+
+    <!-- Device mouting submenu -->
+    <ul  onmouseover="showSubMenu('liftAndLockSubmenu')" onmouseout="hideSubMenu('liftAndLockSubmenu')" class="submenu" id="liftAndLockSubmenu" style="display: none;" >
+      <li class="menu">
+        <a href="./lift-and-lock.php">
+          <p align="left" >Lift and Lock</p>
+        </a>
+      </li>
+      <li id="customizeanarm" class="menu">
+        <a href="./customize-your-lift-and-lock-arm.php">
+          <p align="left" >Customize an Arm</p>
+        </a>
+      </li>
+      <li id="buildyoursystem" class="menu">
+        <a href="./build-your-lift-and-lock-system.php">
+          <p align="left" >Build Your System</p>
+        </a>
+      </li>
+      <li class="menu">
+        <a href="./rolling-floor-stand.php">
+          <p align="left" >Rolling Floor Stand</p>
+        </a>
+      </li>
+      <li class="menu">
+        <a href="./wedge-receivers.php">
+          <p align="left" >Wedge Receivers</p>
+        </a>
+      </li>
+      <li class="menu">
+        <a href="./gallery.php">
+          <p align="left" >Gallery</p>
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li onmouseover="showSubMenu('switchesSubmenu')" onmouseout="hideSubMenu('switchesSubmenu')" id="switches" class="menu">
+    <a href="./switches.php">
+      <p align="center">Switches</p>
+    </a>
+    <!-- Switches submenu -->
+    <ul onmouseover="showSubMenu('switchesSubmenu')" onmouseout="hideSubMenu('switchesSubmenu')" class="submenu" id="switchesSubmenu" style="display:none;">
+      <li class="menu" >
+        <a href="./tube-and-socket.php">
+          <p align="left" >Tube and Socket</p>
+        </a>
+      </li>
+      <li onclick="headswitches(this)"  class="menu" >
+        <a href="./access-switches.php">
+          <p align="left" >Access Switches</p>
+        </a>
+      </li>
+      <li onclick="joysticks(this)" class="menu">
+        <a href="./joysticks.php">
+          <p align="left" >Joysticks</p>
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li  onmouseover="showSubMenu('resourcesSubmenu')" onmouseout="hideSubMenu('resourcesSubmenu')" id="resources" class="menu">
+    <a href="./resources.php">
+      <p align="center">Resources</p>
+    </a>
+    <ul onmouseover="showSubMenu('resourcesSubmenu')" onmouseout="hideSubMenu('resourcesSubmenu')" class="submenu" id="resourcesSubmenu" style="display:none;">
+      <li class="menu">
+        <a href="./catalog.php">
+          <p align="left">Catalog</p>
+        </a>
+      </li>
+      <li class="menu">
+        <a href="./lift-and-lock-configuration-videos.php">
+          <p align="left">Configuration Videos</p>
+        </a>
+      </li>
+      <li  class="menu">
+        <a href="./videos.php">
+          <p align="left">Videos</p>
+        </a>
+      </li>
+	  <li  class="menu">
+        <a href="./testimonials.php">
+          <p align="left">Testimonials</p>
+        </a>
+      </li>
+    </ul>
+
+  </li>
+
+</ul>

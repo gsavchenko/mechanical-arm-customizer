@@ -1,0 +1,1399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/ideas for independent living template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>What's New</title>
+<!-- InstanceEndEditable -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500' rel='stylesheet' type='text/css'>
+<link rel="icon" href="favicon.ico">
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+  
+<style type="text/css" >
+@font-face{
+	font-family:'Roboto';
+	src:'http://fonts.googleapis.com/css?family=Roboto:100,300,400,500';
+	
+	
+	
+}
+
+div.centered{
+position:absolute;
+left:50%;
+margin-left:-590px;
+overflow:hidden;
+}
+div.frame{
+	position:absolute;
+	left:50%;
+	margin-left:-600px;
+}
+div.logo{
+	position:absolute;
+	left:50%;
+	margin-left:-585px;
+	cursor:pointer;
+	
+}
+div.menu1{
+	position:relative;
+	left:50%;
+	margin-left:-39px;
+	font-family:"Century Gothic", "sans-serif";
+}
+div.menu{
+	position:absolute;
+	display:inline;
+	vertical-align:central;
+	text-align:center;
+	margin-top:2px;
+	cursor:pointer;
+	font-weight:lighter;
+
+}
+div.menu2{
+	position:absolute;
+	margin-top:47px;
+
+
+	text-align:center;
+	height:50px; 
+	display:none;
+	cursor:pointer;
+}
+div.menu3{
+	position:absolute;
+	margin-top:96px;
+	vertical-align:central;
+	text-align:center;
+	height:50px; 
+	display:none;
+	cursor:pointer;
+}
+div.menu4{
+	position:absolute;
+	margin-top:144px;
+	vertical-align:central;
+	text-align:center;
+	height:50px; 
+	display:none;
+	cursor:pointer;
+}
+div.menu5{
+	position:absolute;
+	margin-top:192px;
+	vertical-align:central;
+	text-align:center;
+	height:50px;
+	display:none;
+	cursor:pointer;
+}
+div.menu6{
+	position:absolute;
+	margin-top:240px;
+	vertical-align:central;
+	text-align:center;
+	height:50px;
+	display:none;
+	cursor:pointer;
+}
+div.menu7{
+	position:absolute;
+	margin-top:288px;
+	vertical-align:central;
+	text-align:center;
+	height:60px;
+	display:none;
+	cursor:pointer;
+}
+div.behind{
+	position:absolute;
+	display:none;
+
+}
+body { 
+	background-image:url(home%20page/background%20gradient.png);
+	background-size:cover;
+	background-color:#FFF; 
+	font-family:'Roboto';
+	color:#666;
+	font-weight:300;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-stroke: 0.3px;
+} <!-- just testing -->
+@-webkit-keyframes fontfix {
+    from { opacity: 1; }
+    to   { opacity: 1; }
+}
+
+</style>
+<style>
+@media all and (max-width: 1400px){
+
+	.everythingelse{
+		transform:scale(0.80);
+		-webkit-transform:scale(0.80); 
+		-moz-transform:scale(0.80);
+		-ms-transform:scale(0.80);
+		transform-origin:top;
+		-ms-transform-origin:top;
+		-webkit-transform-origin:top;
+	}
+	
+	.structure{
+		transform:scale(0.80); 
+		zoom:80%;
+		-moz-transform:scale(0.80);
+		-ms-transform:scale(0.80);
+		-ms-zoom:100%;
+		-ms-transform-origin:center;
+		z-index:20;
+		transform-origin:center;
+	}
+
+	#secondsection{
+		margin-top:-71.5px;
+	}
+	#thirdsection{
+		margin-top:-363.25px;
+	}
+	#fourthsection{
+		margin-top:-363.25px;
+	}
+	#fifthsection{
+		margin-top:-363.25px;
+	}
+	#sixthsection{
+		margin-top:-363.25px;
+	}
+	#ideastag{
+		margin-top:-363.25px;
+	}
+	.displaybox{
+		transform-origin:center;
+		-moz-transform-origin:center;
+		-ms-transform-origin:center;
+		-webkit-transform-origin:center;
+	}
+ }
+ </style>
+<!--[if lt IE 9]>
+<script>
+alert("You are using an outdated internet browser. Updating your browser will allow you to access more dynamic and helpful content. Please update to the latest version to have the best viewing results for this website and others like it.");
+window.location.href= "http://windows.microsoft.com/en-us/internet-explorer/download-ie";
+
+
+$(document).ready(function(){
+$("#opener").css("height","800px")
+});
+</script>
+<![endif]-->
+
+ <style>
+@media all and (min-width:1400px){
+
+	#secondsection{
+		margin-top:-110px;
+	}
+	.everythingelse{
+		transform:scale(1);
+		-webkit-transform:scale(1);
+		-moz-transform:scale(1);
+		-ms-transform:scale(1);
+		transform-origin:center;
+		-ms-transform-origin:center;
+		-webkit-transform-origin:center;
+	}
+	.menu1{
+		z-index:20px;
+		
+ }
+ 	#outside{
+		height:100%;
+	}
+ 
+</style>
+
+<!-- InstanceBeginEditable name="EditRegion5" -->
+<style>
+.newsmalltitle1{
+	font-weight:500; 
+	font-size:64px; 
+	text-align:center;
+	position:absolute;
+	opacity:1.0;
+	margin-top:50px;
+
+	color:#E9E9E9;
+	cursor:pointer;
+
+}
+.newsmalltitle2{
+	font-weight:500; 
+	font-size:76px; 
+	text-align:center;
+
+	position:absolute;
+	color:#E9E9E9;
+	cursor:pointer;
+
+}
+.newsmalltitle3{
+	font-weight:500; 
+	font-size:64px; 
+	text-align:center; 
+	position:absolute;
+	color:#E9E9E9;
+	cursor:pointer;
+
+}
+.newsmalltitle4{
+	font-weight:500; 
+	font-size:150px; 
+	text-align:center; 
+	position:absolute;
+	color:#E9E9E9;
+
+	margin-left:40px;
+	margin-top:220px;
+	cursor:pointer;
+}
+.newpic1cover{
+	width:280px;
+	height:350px;
+
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	vertical-align:central;
+	cursor:pointer;
+
+}
+.newpic1{
+	width:280px;
+	height:350px;
+	background-color:#ABABAB;
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	vertical-align:central;
+
+}
+.newpic1:hover{
+	opacity:0.75;
+	filter:alpha(opacity=75);
+	
+}
+</style>
+<style>
+.newpic2cover{
+	width:580px;
+	height:350px;
+
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	cursor:pointer;
+}
+.newpic2{
+	width:580px;
+	height:350px;
+	background-color:#ABABAB;
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+.newpic2:hover{
+	opacity:0.75;
+	filter:alpha(opacity=75);		
+	
+}
+</style>
+<style>
+.newpic3{
+	width:280px;
+	height:720px;
+	background-color:#ABABAB;
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);	
+}
+.newpic3cover{
+	width:280px;
+	height:720px;
+
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);	
+	cursor:pointer;
+}
+.newpic3:hover{
+	opacity:0.75;
+	filter:alpha(opacity=75);		
+	
+}
+</style>
+<style>
+.newpic4cover{
+	width:580px;
+	height:720px;
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);	
+	cursor:pointer;
+}
+.newpic4{
+	width:580px;
+	height:720px;
+	left:50%;
+	position:absolute;
+	overflow:hidden;
+	opacity:1.0;
+	filter:alpha(opacity=100);	
+}
+.newpic4:hover{
+	opacity:0.25;	
+	filter:alpha(opacity=25);	
+	
+}
+</style>
+<style>
+.displaybox{
+	width:980px;
+	border-width:10px;
+	border-style:solid;
+	border-color:#FFF;
+
+	background-color:#FFF;
+	left:50%;
+	margin-left:-490px;
+	top:5%;
+	bottom:5%;
+	position:absolute;
+	display:none;
+	z-index:100;
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+.scroll{
+	position:absolute;
+	
+	
+}
+</style>
+<style>
+#backdrop{
+	width:100%;
+	height:100%;
+	background-color:#424242;
+	position:fixed;
+	display:none;
+	top:0px;
+	left:0px;
+	opacity:0.5;
+	z-index:99;
+}
+</style>
+<style>
+.newtitle{
+	position:absolute;
+	margin-top:620px;
+	margin-right:500px;
+	font-family:"Roboto Lt", 'Roboto', 'sans-serif';
+	font-size:46px;
+	font-weight:300;
+}
+.featurettepic{
+	position:absolute;
+	width:980px;
+	height:560px;
+	margin-left:0px;
+	margin-top:0px;
+	background-color:#818181;
+	overflow:hidden;
+}
+.firstpic{
+	position:absolute;
+	width:980px;
+	margin-top:-50px;
+	background-color:#D5D5D5;
+}
+.secondpic{
+	position:absolute;
+	width:980px;
+	margin-top:-50px;
+
+	background-color:#EAEAEA;
+	display:none;
+}
+.thirdpic{
+	position:absolute;
+	width:980px;
+
+	background-color:#6C6C6C;
+	display:none;
+}
+.fourthpic{
+	position:absolute;
+	width:980px;
+
+	background-color:#2D2D2D;
+	display:none;
+}
+.featurettepar{
+	margin-left:500px;
+	margin-top:590px;
+	margin-right:50px;
+	font-weight:300;
+	font-size:16px;
+
+}
+.featurettemenuleft{
+	left:0px;
+	width:20px;
+	opacity:0.75;
+	height:560px;
+	display:none;
+	background-color:#EAEAEA;
+	position:absolute;
+	cursor:pointer;
+}
+.featurettemenuright{
+float:right;
+
+	width:20px;
+	opacity:0.75;
+	height:560px;
+	background-color:#EAEAEA;
+	position:relative;
+	cursor:pointer;
+}
+
+.featurettarrow{
+	position:absolute;
+	margin-top:-25px;
+	left:50%;
+	margin-left:-10px;
+	top:50%;
+	width:20px;
+}
+.exiticon{
+	position:absolute;
+
+	right:0px;
+	height:25px;
+	cursor:pointer;
+}
+</style>
+<style>
+@media all and (max-width: 1400px){
+	.scaled{
+		z-index:-10;
+	}
+	.newpic2{
+		z-index:-10;
+	}
+	.menu1{
+		z-index:100;
+	}
+	.displaybox{
+		transform-origin:center;
+		-moz-transform-origin:center;
+		-ms-transform-origin:center;
+		-webkit-transform-origin:center;
+
+	}
+	#allofit{
+		-moz-transform:scale(0.65);
+
+		transform:scale(0.65);
+		-webkit-transform:scale(0.65);
+
+		-ms-transform:scale(0.65);
+		transform-origin:top;
+		-ms-transform-origin:top;
+		-webkit-transform-origin:top;
+
+		top:0px;
+		height:153.85%;
+
+		-moz-transform-origin:top;
+}
+ </style>
+ <style>
+@media all and (min-width: 1400px){
+	.scaled{
+		z-index:-10;
+	}
+	.newpic2{
+		z-index:-10;
+	}
+	.menu1{
+		z-index:100;
+	}
+
+	#allofit{
+		top:0px;
+		height:100%;
+}
+ </style>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="EditRegion4" -->
+
+<script>
+$(document).ready(function (){
+	
+	
+})
+</script>
+<script>
+function displaybox1caption(){
+
+	$("#displaybox1title").show()
+}
+function displaybox1nocaption(){
+	$("#displaybox1").css("opacity","1")
+	$("#displaybox1title").hide()
+
+}
+</script>
+<script>
+function displaybox2caption(){
+	$("#displaybox2").css("opacity","0.5")
+	$("#displaybox2title").show()
+}
+function displaybox2nocaption(){
+	$("#displaybox2").css("opacity","1")
+	$("#displaybox2title").hide()
+}
+</script>
+<script>
+function displaybox3caption(){
+	$("#displaybox3").css("opacity","0.5")
+	$("#displaybox3title").show()
+}
+function displaybox3nocaption(){
+	$("#displaybox3").css("opacity","1")
+	$("#displaybox3title").hide()
+}
+</script>
+<script>
+function displaybox4caption(){
+	$("#displaybox4").css("opacity","0.5")
+	$("#displaybox4title").show()
+}
+function displaybox4nocaption(){
+	$("#displaybox4").css("opacity","1")
+	$("#displaybox4title").hide()
+}
+</script>
+<script>
+function displaybox5caption(){
+	$("#displaybox5").css("opacity","0.5")
+	$("#displaybox5title").show()
+}
+function displaybox5nocaption(){
+	$("#displaybox5").css("opacity","1")
+	$("#displaybox5title").hide()
+}
+</script>
+<script>
+function displaybox6caption(){
+	$("#displaybox6").css("opacity","0.5")
+	$("#displaybox6title").show()
+}
+function displaybox6nocaption(){
+	$("#displaybox6").css("opacity","1")
+	$("#displaybox6title").hide()
+}
+</script>
+<script>
+function displaybox7caption(){
+	$("#displaybox7").css("opacity","0.5")
+	$("#displaybox7title").show()
+}
+function displaybox7nocaption(){
+	$("#displaybox7").css("opacity","1")
+	$("#displaybox7title").hide()
+}
+</script>
+<script>
+function displaybox8caption(){
+	$("#displaybox8").css("opacity","0.5")
+	$("#displaybox8title").show()
+}
+function displaybox8nocaption(){
+	$("#displaybox8").css("opacity","1")
+	$("#displaybox8title").hide()
+}
+</script>
+<script>
+function displaybox14caption(){
+	$("#displaybox14").css("opacity","0.5")
+	$("#displaybox14title").show()
+}
+function displaybox14nocaption(){
+	$("#displaybox14").css("opacity","1")
+	$("#displaybox14title").hide()
+}
+</script>
+<script>
+function displaybox9caption(){
+	$("#displaybox9").css("opacity","0.5")
+	$("#displaybox9title").show()
+}
+function displaybox9nocaption(){
+	$("#displaybox9").css("opacity","1")
+	$("#displaybox9title").hide()
+}
+</script>
+<script>
+function displaybox10caption(){
+	$("#displaybox10").css("opacity","0.5")
+	$("#displaybox10title").show()
+}
+function displaybox10nocaption(){
+	$("#displaybox10").css("opacity","1")
+	$("#displaybox10title").hide()
+}
+</script>
+<script>
+function displaybox11caption(){
+	$("#displaybox11").css("opacity","0.25")
+	$("#displaybox11title").show()
+}
+function displaybox11nocaption(){
+	$("#displaybox11").css("opacity","1")
+	$("#displaybox11title").hide()
+}
+</script>
+<script>
+function displaybox12caption(){
+	$("#displaybox12").css("opacity","0.5")
+	$("#displaybox12title").show()
+}
+function displaybox12nocaption(){
+	$("#displaybox12").css("opacity","1")
+	$("#displaybox12title").hide()
+}
+</script>
+<script>
+function displaybox13caption(){
+	$("#displaybox13").css("opacity","0.5")
+	$("#displaybox13title").show()
+}
+function displaybox13nocaption(){
+	$("#displaybox13").css("opacity","1")
+	$("#displaybox13title").hide()
+}
+</script>
+
+<script>
+function displaybox1(){
+	$("#displaybox1").show()
+	$("#backdrop").show()	
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox2(){
+	$("#displaybox2").show()
+	$("#backdrop").show()
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox3(){
+	$("#displaybox3").show()
+	$("#backdrop").show()	
+	$("#allofit").show()
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox4(){
+	$("#displaybox4").show()
+	$("#backdrop").show()	
+	$("#allofit").show()	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox5(){
+	$("#displaybox5").show()
+	$("#backdrop").show()	
+	$("#allofit").show()	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+	
+}
+</script>
+<script>
+function displaybox6(){
+	$("#displaybox6").show()
+	$("#backdrop").show()	
+	$("#allofit").show()
+	$(".thirdpic").addClass("there")	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox7(){
+	$("#displaybox7").show()
+	$("#backdrop").show()
+	$("#allofit").show()		
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox8(){
+	$("#displaybox8").show()
+	$("#backdrop").show()
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")
+	$(".fourthpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")	
+}
+</script>
+<script>
+function displaybox14(){
+	$("#displaybox9").show()
+	
+	$("#backdrop").show()
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox10(){
+	$("#displaybox10").show()
+	$("#backdrop").show()	
+	$("#allofit").show()
+	$(".thirdpic").addClass("there")	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox11(){
+	$("#displaybox11").show()
+	$("#backdrop").show()	
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function displaybox12(){
+	$("#displaybox12").show()
+	$("#backdrop").show()
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")	
+}
+</script>
+<script>
+function displaybox13(){
+	$("#displaybox13").show()
+	$("#backdrop").show()
+	$("#allofit").show()	
+	$(".thirdpic").addClass("there")	
+	$(".featurettemenuleft").hide()
+	$(".featurettemenuright").show()
+	$(".secondpic").hide().removeClass("visible")
+	$(".thirdpic").hide().removeClass("visible")
+	$(".fourthpic").hide().removeClass("visible")
+	$(".firstpic").show().addClass("visible")
+}
+</script>
+<script>
+function backdrop(){
+	$(".displaybox").hide()
+	$("#backdrop").hide()
+	$("#allofit").hide()
+	$(".thirdpic").removeClass("there")
+	$(".fourthpic").removeClass("there")
+}
+function featurettemenuleft(x){
+	$(".featurettemenuleft").css({"width":"30px"})
+}
+function featurettemenulefthide(x){
+	$(".featurettemenuleft").css({"width":"20px"})
+}
+function featurettemenuright(x){
+	$(".featurettemenuright").css({"width":"30px"})
+}
+function featurettemenurighthide(x){
+	$(".featurettemenuright").css({"width":"20px"})
+}
+</script>
+<script>
+function menuleft(x){
+	if($(".secondpic").hasClass("visible")){
+		$(".secondpic").hide().removeClass("visible")
+		$(".firstpic").show().addClass("visible")
+		$(".featurettemenuleft").hide()
+		$(".featurettemenuright").show()
+	}
+	else if($(".thirdpic").hasClass("visible")){
+		$(".thirdpic").hide().removeClass("visible")
+		$(".secondpic").show().addClass("visible")
+		$(".featurettemenuright").show()
+	}
+	else if($(".fourthpic").hasClass("visible")){
+		$(".fourthpic").hide().removeClass("visible")
+		$(".thirdpic").show().addClass("visible")
+		$(".featurettemenuright").show()
+	}
+}
+function menuright(x){
+	if($(".firstpic").hasClass("visible")){
+		$(".firstpic").hide().removeClass("visible")
+		$(".secondpic").show().addClass("visible")
+		$(".featurettemenuleft").show()
+		$(".featurettemenuright").hide()
+		if($(".thirdpic").hasClass("there")){
+			$(".featurettemenuright").show()
+		}
+	}
+	else if($(".secondpic").hasClass("visible")){
+		$(".secondpic").hide().removeClass("visible")
+		$(".thirdpic").show().addClass("visible")
+		$(".featurettemenuright").hide()
+		if($(".fourthpic").hasClass("there")){
+			$(".featurettemenuright").show()
+		}
+	}
+	else if($(".thirdpic").hasClass("visible")){
+		$(".thirdpic").hide().removeClass("visible")
+		$(".fourthpic").show().addClass("visible")
+		$(".featurettemenuright").hide()
+
+	}
+}
+</script>
+<meta name="description" content="We’re constantly designing new products and working to improve our existing ones. Click here to see some of latest innovations." />
+
+<!-- InstanceEndEditable -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40742743-3', 'ideasfil.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+function what(x){
+	$("#newprojects").show();
+	$("#whatsnew").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+	$("#newprojectsbehind").show();
+	$("#whatsnew").css("background-color", "#FFF")
+}
+function whathide(x){
+	$("#newprojects").hide();
+	$("#whatsnew").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+	$("#newprojectsbehind").hide();
+	$("#whatsnew").css("background-color", "transparent");
+}
+
+</script>
+<script>
+function about(x){
+	$(".about").show();
+	$("#about").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+	$("#about").css("background-color", "#FFF")	
+}
+function abouthide(x){
+	$(".about").hide();
+	$("#about").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+	$("#about").css("background-color", "transparent");
+}
+</script>
+<script>
+function liftandlock(x){
+	$(".liftandlock").show();
+	$("#liftandlock").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+	$("#liftandlock").css("background-color", "#FFF")	
+}
+function liftandlockhide(x){
+	$(".liftandlock").hide();
+	$("#liftandlock").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+	$("#liftandlock").css("background-color", "transparent");
+}
+function buildyoursystem(x){
+		document.location="http://www.ideasfil.com";
+}
+</script>
+<script>
+function switches(x){
+	$(".switches").show();
+	$("#switches").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+	$("#switches").css("background-color", "#FFF")	
+}
+function switcheshide(x){
+	$(".switches").hide();
+	$("#switches").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+	$("#switches").css("background-color", "transparent");
+}
+</script>
+<script>
+function products(x){
+	$(".product").show();
+	$("#products").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+	$("#products").css("background-color", "#FFF")	
+}
+function productshide(x){
+	$(".product").hide();
+	$("#products").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+	$("#products").css("background-color", "transparent");
+}
+</script>
+<script>
+function homebold(x){
+	$("#home").css({"color": "green", "font-weight": "bold", "text-shadow":"1px 1px #C0C0C0"})
+
+}
+function homeboldhide(x){
+	$("#home").css({"color":"#666", "font-weight": "lighter", "text-shadow":"none"})
+
+}
+</script>
+<script>
+function hm(x){
+		document.location="http://www.ideasfil.com";
+}
+function whatwedo(x){
+		document.location="http://www.ideasfil.com/what-we-do.html";
+}
+function contact(x){
+		document.location="http://www.ideasfil.com/contact-us.html";
+}
+function whatsnew(x){
+		document.location="http://www.ideasfil.com/what's-new.html";
+}
+function liftandlocksystem(x){
+		document.location="http://www.ideasfil.com/lift-and-lock.html";
+}
+function customizeanarm(x){
+		document.location="http://www.ideasfil.com/customize-your-lift-and-lock-arm.html";
+}
+function buildyoursystem(x){
+		document.location="http://www.ideasfil.com/build-your-lift-and-lock-system.html";
+}
+function rollingfloorstand(x){
+		document.location="http://www.ideasfil.com/rolling-floor-stand.html";
+}
+function wedgereceiverspage(x){
+		document.location="http://www.ideasfil.com/wedge-receivers.html";
+}
+function tubeandsocket(x){
+		document.location="http://www.ideasfil.com/tube-and-socket.html";
+}
+function headswitches(x){
+		document.location="http://www.ideasfil.com/access-switches.html";
+}
+function joysticks(x){
+		document.location="http://www.ideasfil.com/joysticks.html";
+}
+function gallery(x){
+		document.location="http://www.ideasfil.com/gallery.html";
+}
+function catalog(x){
+		document.location="http://www.ideasfil.com/catalog.html";
+}
+function aboutideas(x){
+		document.location="http://www.ideasfil.com/about-ideas.html"; 
+}
+function nw(x){
+		document.location="http://www.ideasfil.com/new.html";
+}
+function devicemounting(x){
+		document.location="http://www.ideasfil.com/device-mounting.html";
+}
+function switchespage(x){
+		document.location="http://www.ideasfil.com/switches.html";
+}
+function productspage(x){
+		document.location="http://www.ideasfil.com/resources.html";
+}
+function videos(x){
+		document.location="http://www.ideasfil.com/videos.html";
+}
+
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<meta name="robots" content="index, follow" />
+</head>
+
+<body>
+<!-- InstanceBeginEditable name="EditRegion6" -->
+<div class="structure">
+  <!--<div id="ideas logo" onclick="hm(this)" class="logo" style="z-index:5; position:absolute; top:75px; height:100px; "><img style="height:100px;" src="../logo.png" /> </div>-->
+  <div id="ideas logo" onclick="hm(this)" class="logo" style="z-index:5; position:absolute; top:75px; height:100px; "><img style="height:100px;" src="logo%20ending%20inc_REGISTERED.png" /></div>
+  <div class="menu1" style="position:absolute; top:122px; height:47px; width:635px; z-index:20; border-bottom-width:thin; border-bottom-style:solid; border-top-style:solid; border-top-width:thin; border-color:#969696;">
+    <div onmouseover="homebold(this)" onmouseout="homeboldhide(this)" onclick="hm(this)" id="home" class="menu" style="height:45px; width:80px; margin-left:-4px;">
+      <p align="center" style="margin-top:11px;">Home</p>
+    </div>
+    <div onclick="aboutideas(this)" onmouseover="about(this)" onmouseout="abouthide(this)" id="about" class="menu" style="margin-left:76px; height:45px; width:80px;">
+      <p align="center" style="margin-top:11px; ">About</p>
+    </div>
+    <div onclick="nw(this)" onmouseover="what(this)" onmouseout="whathide(this)" id="whatsnew" class="menu" style="margin-left:157px; height:45px; width:110px;">
+      <p align="center" style="margin-top:11px; ">What's New</p>
+    </div>
+    <div onclick="devicemounting(this)" onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)"id="liftandlock" class="menu" style="margin-left:280px; height:45px; width:140px;">
+      <p align="center" style="margin-top:11px;">Device Mounting</p>
+    </div>
+    <div onclick="switchespage(this)" onmouseover="switches(this)" onmouseout="switcheshide(this)"id="switches" class="menu" style="margin-left:424px; height:45px; width:100px;">
+      <p align="center" style="margin-top:11px;">Switches</p>
+    </div>
+    <div onclick="productspage(this)" onmouseover="products(this)" onmouseout="productshide(this)" id="products" class="menu" style="margin-left:524px; height:45px; width:95px;">
+      <p align="center" style="margin-top:11px;">Resources</p>
+    </div>
+    <div onmouseover="about(this)" onmouseout="abouthide(this)" class="behind menu2 about" id="aboutbehind" style="height:100px; width:150px; margin-left:76px; border-bottom-width:thin; border-left-width:thin; border-right-width:thin; border-bottom-style:solid; border-left-style:solid; border-right-style:solid; background-color:#FFF; border-color:#969696;"></div>
+    <div onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="behind menu2 liftandlock" id="liftandlockbehind" style="height:300px; width:200px; margin-left:280px; border-bottom-width:thin; border-left-width:thin; border-right-width:thin; border-bottom-style:solid; border-left-style:solid; border-right-style:solid; background-color:#FFF; border-color:#969696;"></div>
+    <div onmouseover="what(this)" onmouseout="whathide(this)" class="behind menu2" id="newprojectsbehind" style="height:50px; width:152px; margin-left:157px; border-bottom-width:thin; border-left-width:thin; border-right-width:thin; border-bottom-style:solid; border-left-style:solid; border-right-style:solid; background-color:#FFF; border-color:#969696;"></div>
+    <div onmouseover="switches(this)" onmouseout="switcheshide(this)" class="behind menu2 switches" id="switchesbehind" style="height:150px; width:170px; margin-left:424px; border-bottom-width:thin; border-left-width:thin; border-right-width:thin; border-bottom-style:solid; border-left-style:solid; border-right-style:solid; background-color:#FFF; border-color:#969696;"></div>
+    <div onmouseover="products(this)" onmouseout="productshide(this)" class="behind menu2 product" id="productbehind" style="height:103px; width:115px; margin-left:524px; border-bottom-width:thin; border-left-width:thin; border-right-width:thin; border-bottom-style:solid; border-left-style:solid; border-right-style:solid; background-color:#FFF; border-color:#969696;"></div>
+    <div onclick="whatwedo(this)" onmouseover="about(this)" onmouseout="abouthide(this)" class="menu2 about" style="margin-left:76px; width:150px;">
+      <p align="left" style="text-indent:20px;">What We Do</p>
+    </div>
+    <div onclick="contact(this)" onmouseover="about(this)" onmouseout="abouthide(this)" class="menu3 about" style=" margin-left:76px; width:150px;">
+      <p align="left" style="text-indent:20px;">Contact</p>
+    </div>
+    <div onclick="liftandlocksystem(this)" onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu2 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Lift and Lock</p>
+    </div>
+    <div onclick="customizeanarm(this)" id="customizeanarm"onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu3 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Customize an Arm</p>
+    </div>
+    <div onclick="buildyoursystem(this)" id="buildyoursystem"onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu4 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Build Your System</p>
+    </div>
+    <div onclick="rollingfloorstand(this)" onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu5 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Rolling Floor Stand</p>
+    </div>
+    <div onclick="wedgereceiverspage(this)" onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu6 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Wedge Receivers</p>
+    </div>
+    <div onclick="gallery(this)" onmouseover="liftandlock(this)" onmouseout="liftandlockhide(this)" class="menu7 liftandlock" style="margin-left:280px; width:200px;">
+      <p align="left" style="text-indent:20px;">Gallery</p>
+    </div>
+    <div onclick="tubeandsocket(this)" onmouseover="switches(this)" onmouseout="switcheshide(this)"class="menu2 switches" style="margin-left:424px; width:160px;">
+      <p align="left" style="text-indent:20px;">Tube and Socket</p>
+    </div>
+    <div onclick="headswitches(this)" onmouseover="switches(this)" onmouseout="switcheshide(this)"class="menu3 switches" style="margin-left:424px; width:160px;">
+      <p align="left" style="text-indent:20px;">Access Switches</p>
+    </div>
+    <div onclick="joysticks(this)" onmouseover="switches(this)" onmouseout="switcheshide(this)"class="menu4 switches" style="margin-left:424px; width:160px;">
+      <p align="left" style="text-indent:20px;">Joysticks</p>
+    </div>
+    <div onclick="whatsnew(this)" onmouseover="what(this)" onmouseout="whathide(this)" id="newprojects" class="menu2" style="margin-left:157px; width:145px;">
+      <p align="left" style="text-indent:20px;">New Projects</p>
+    </div>
+    <div onclick="catalog(this)" onmouseover="products(this)" onmouseout="productshide(this)"class="menu2 product" style="margin-left:524px; width:115px;">
+      <p align="left" style="text-indent:20px;">Catalog</p>
+    </div>
+    <div onclick="videos(this)" onmouseover="products(this)" onmouseout="productshide(this)"class="menu3 product" style="margin-left:524px; width:115px;">
+      <p align="left" style="text-indent:20px;">Videos</p>
+    </div>
+  </div>
+</div>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="EditRegion1" -->
+<div class="everythingelse">
+<h1><div id="liftandlocktitle" style="position:absolute; top:290px; left:50%; margin-left:-540px; overflow:hidden; text-align:left; font-size:150px; font-weight:300; font-family:'Roboto Lt', 'Roboto', 'sans-serif';">What's<br />New</div></h1>
+</div>
+<div class="everythingelse scaled">
+<div onmouseover="displaybox1caption(this)" onmouseout="displaybox1nocaption(this)" onclick="displaybox1(this)" class="newpic1" style="margin-left:10px; top:300px; "><img src="what's new page/WISH image.jpg" style="width:600px; margin-left:0px; margin-top:0px; position:absolute; "/></div>
+<!--<div onmouseover="displaybox1caption(this)" onmouseout="displaybox1nocaption(this)" onclick="displaybox1(this)" class="newpic1" style="margin-left:10px; top:300px; "><img src="what's new page/WISH image.jpg" style="width:600px; margin-left:-180px; margin-top:-40px; position:absolute; "/></div>-->
+<!--img src="what's new page/swing-away-release-wheelchair-mounting-customizable-positioning-devices.jpg"-->
+<a href="#swingawaypar"><div class="newpic1cover" onmouseover="displaybox1caption(this)" onmouseout="displaybox1nocaption(this)" onclick="displaybox1(this)" id="displaybox1title" style="display:none; margin-left:10px; top:300px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div>
+<p class="newsmalltitle1">THE WISH LINE</p></div></a>
+
+<a href="#joystickpar"><div onmouseover="displaybox2caption(this)" onmouseout="displaybox2nocaption(this)" onclick="displaybox2(this)"class="newpic1" style="margin-left:310px; top:300px;"><img src="what's new page/joystick-disability-assistance-wheelchair-device-communication.jpg" style="width:600px; margin-left:-110px; position:absolute; margin-top:-25px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox2caption(this)" onmouseout="displaybox2nocaption(this)" onclick="displaybox2(this)" id="displaybox2title" style="display:none; margin-left:310px; top:300px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="font-size:52px; margin-top:95px;">USB JOYSTICKS</p></div></a>
+
+
+<a href="#hockeywristpar"><div onmouseover="displaybox3caption(this)" onmouseout="displaybox3nocaption(this)" onclick="displaybox3(this)"class="newpic2" style="margin-left:-290px; top:670px;"><img src="what's new page/hockey-wrist-sports-disability-amputee-equipment-assistance-device.jpg" style="position:absolute; width:600px; margin-left:-20px; margin-top:-15px;" /></div>
+<div class="newpic2cover" onmouseover="displaybox3caption(this)" onmouseout="displaybox3nocaption(this)" onclick="displaybox3(this)" id="displaybox3title" style="display:none; margin-left:-290px; top:670px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle2">HEAVY DUTY HOCKEY WRIST</p></div></a>
+
+
+<a href="#armrestpar"><div onmouseover="displaybox4caption(this)" onmouseout="displaybox4nocaption(this)" onclick="displaybox4(this)"class="newpic1" style="margin-left:310px; top:670px;"><img src="what's new page/swivel-arm-rest-wheelchair-accesible-customizable-devices.jpg" style="position:absolute; width:550px; margin-left:-20px; margin-top:-10px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox4caption(this)" onmouseout="displaybox4nocaption(this)" onclick="displaybox4(this)" id="displaybox4title" style="display:none; margin-left:310px; top:670px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1">SWIVEL ARM RESTS</p></div></a>
+
+<a href="#unicrankpar"><div onmouseover="displaybox5caption(this)" onmouseout="displaybox5nocaption(this)" onclick="displaybox5(this)"class="newpic1" style="margin-left:-590px; top:670px;"><img src="what's new page/bicycle-sports-disability-equipment-assistive-device.jpg" style="position:absolute; width:580px; margin-left:-160px; margin-top:-10px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox5caption(this)" onmouseout="displaybox5nocaption(this)" onclick="displaybox5(this)" id="displaybox5title" style="display:none; margin-left:-590px; top:670px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="font-size:50px; margin-top:95px;">UNI-CRANK BIKE PEDAL</p></div></a>
+
+<a href="#doublebonepar"><div onmouseover="displaybox6caption(this)" onmouseout="displaybox6nocaption(this)" onclick="displaybox6(this)"class="newpic1" style="margin-left:10px; top:1040px;"><img src="what's new page/double-bone-two-arms-mounting-arm-wheelchair-mounting-disability-assistance-equipment.jpg" style="position:absolute; width:550px; margin-left:-130px; margin-top:-10px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox6caption(this)" onmouseout="displaybox6nocaption(this)" onclick="displaybox6(this)" id="displaybox6title" style="display:none; margin-left:10px; top:1040px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="margin-top:85px;">DOUBLE BONE</p>
+</div></a>
+
+<a href="#instrumentpar"><div onmouseover="displaybox7caption(this)" onmouseout="displaybox7nocaption(this)" onclick="displaybox7(this)"class="newpic1" style="margin-left:310px; top:1040px;"><img src="what's new page/instrument-mounting-disability-assistance-device-music-disabled.jpg" style="position:absolute; width:600px; margin-left:-160px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox7caption(this)" onmouseout="displaybox7nocaption(this)" onclick="displaybox7(this)" id="displaybox7title" style="display:none; margin-left:310px; top:1040px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="margin-top:90px; font-size:40px;">INSTRUMENT MOUNTING ATTACHMENT</p></div></a>
+
+<a href="#socketbarpar"><div onmouseover="displaybox8caption(this)" onmouseout="displaybox8nocaption(this)" onclick="displaybox8(this)"class="newpic1" style="margin-left:-290px; top:1040px;"><img src="what's new page/serrated-socket-bar-wheelchair-mouting-disability-devices-assistance-systems.jpg" style="position:absolute; width:600px; margin-left:-150px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox8caption(this)" onmouseout="displaybox8nocaption(this)" onclick="displaybox8(this)" id="displaybox8title" style="display:none; margin-left:-290px; top:1040px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="font-size:54px; margin-top:75px;">SERRATED SOCKET BAR</p></div></a>
+
+<a href="#tablemountpar"><div onmouseover="displaybox14caption(this)" onmouseout="displaybox14nocaption(this)" onclick="displaybox14(this)" class="newpic1" style="margin-left:-590px; top:1040px; height:720px;"><img src="what's new page/table-mount-desktop-assistance-device-wheelchair-mounting.jpg" style="position:absolute; width:1100px; margin-left:-260px; margin-top:-12px;" /></div>
+<div class="newpic1cover" onmouseover="displaybox14caption(this)" onmouseout="displaybox14nocaption(this)" onclick="displaybox14(this)" id="displaybox14title" style="display:none; margin-left:-590px; top:1040px; height:720px;"><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1">LIFT AND LOCK TABLE MOUNT</p></div></a>
+
+
+
+
+
+
+
+
+<a href="#paddleswitchpar"><div onmouseover="displaybox10caption(this)" onmouseout="displaybox10nocaption(this)" onclick="displaybox10(this)"class="newpic1" style="margin-left:-290px; top:1410px;"><img src="what's new page/access-switches-assistive-living-devices-wheelchair-buttons-heavy-duty.jpg" style="width:600px; margin-left:-210px; margin-top:-20px; position:absolute;"/></div>
+<div class="newpic1cover" onmouseover="displaybox10caption(this)" onmouseout="displaybox10nocaption(this)" onclick="displaybox10(this)" id="displaybox10title" style="display:none; margin-left:-290px; top:1410px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1" style="margin-top:85px;">PADDLE SWITCH</p></div></a>
+
+<a href="#gamerpar"><div onmouseover="displaybox11caption(this)" onmouseout="displaybox11nocaption(this)" onclick="displaybox11(this)"class="newpic4" style="margin-left:10px; top:1410px;"><img src="what's new page/x-box-playstation-controller-wheelchair-mounting.jpg" style="width:1500px; margin-left:-430px; margin-top:-170px; position:absolute;"/></div>
+<div class="newpic4cover" onmouseover="displaybox11caption(this)" onmouseout="displaybox11nocaption(this)" onclick="displaybox11(this)" id="displaybox11title" style="display:none; margin-left:10px; top:1410px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle4">GAMER</p></div></a>
+
+<a href="#tubeandsocketpar"><div onmouseover="displaybox12caption(this)" onmouseout="displaybox12nocaption(this)" onclick="displaybox12(this)"class="newpic1" style="margin-left:-590px; top:1780px;"><img src="what's new page/hammer-head-custom-prosthetics-attachment-tool-independent-living.jpg" style="width:550px; margin-left:-133px; margin-top:-10px; position:absolute;"/></div>
+<div class="newpic1cover" onmouseover="displaybox12caption(this)" onmouseout="displaybox12nocaption(this)" onclick="displaybox12(this)" id="displaybox12title" style="display:none; margin-left:-590px; top:1780px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p id="displaybox12title" class="newsmalltitle1" style="font-size:54px;">HAMMER <font size="6">PROSTHETIC</font></p></div></a>
+
+<a href="#rollingstandpar"><div onmouseover="displaybox13caption(this)" onmouseout="displaybox13nocaption(this)" onclick="displaybox13(this)"class="newpic1" style="margin-left:-290px; top:1780px;"><img src="what's new page/rolling-floor-stand-accessible-everywhere-industrial-assistive-device-mounting.jpg" style="position:absolute; width:600px; margin-left:-120px; margin-top:-10px;"/></div>
+<div class="newpic1cover" onmouseover="displaybox13caption(this)" onmouseout="displaybox13nocaption(this)" onclick="displaybox13(this)" id="displaybox13title" style="display:none; margin-left:-290px; top:1780px; "><div style="position:absolute; background-color:#010101; opacity:0.25; height:100%; width:100%;"></div><p class="newsmalltitle1">ROLLING FLOOR STANDS</p></div></a>
+</div>
+
+
+
+
+
+
+
+<div onclick="backdrop(this)" id="backdrop"></div>
+
+<div id="allofit" style="left:50%; margin-left:-500px; width:1000px; position:fixed; display:none; z-index:100;">
+<div class="displaybox" id="displaybox1"><div class="featurettepic"> <img style="margin-top:0px;" class="firstpic visible" src="what's new page/WISH image.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/swing-away-release-wheelchair-mounting-quick-access-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img style="margin-top:-60px;" class="thirdpic" src="what's new page/swing-away-release-wheelchair-mounting-quick-release-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<!--<div class="displaybox" id="displaybox1"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/swing-away-release-wheelchair-mounting-customizable-positioning-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/swing-away-release-wheelchair-mounting-quick-access-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img style="margin-top:-60px;" class="thirdpic" src="what's new page/swing-away-release-wheelchair-mounting-quick-release-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>-->
+<!--<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>-->
+<h2 class="newtitle" style="margin-left:75px;">The Wish Line</h2>
+<!--<h2 class="newtitle" style="margin-left:75px;">Swing Away Release</h2>-->
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+
+<!--<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:740px; position:absolute; margin-left:125px; font-weight:100; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System<img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>-->
+
+<p id="swingawaypar" class="featurettepar">The WISH line (WISH by the way stands for Wireless Integrated Switch Hub) is our system of computer access devices. The end goal of them is to allow someone control over mouse and keyboard commands through whatever abilities they have. It's all wireless (but not Bluetooth), and the devices can be reprogrammed so that they can be set up specifically for a given user.<br /><br />Essentially, each user's system will be composed of [at least] two parts: a transmitter and a receiver. The transmitter is the part that the user interacts directly with. The two major transmitters that we have to offer right now are the WISH Stick and the WISH Box. The Stick has a joystick on it and two ports where users can plug in access switches. There are a wide range of these switches on the market, and exactly what gets plugged in depends on the person's abilities. The WISH Box has no joystick, but it has 7 switches jacks, and another port to accept something called an ECU (environmental control unit). This is a box that goes onto a power wheelchair, which translates the controls they would normally use for driving the chair into switches. So in our case, if they have an ECU, they can plug it into the WISH Box and then use their driving controls to run their computer.<br /><br />There are two different kindsm of receivers that we can use as well. The standard one is just called the WISH Receiver. It plugs into a computer's USB port and acts as if it was a mouse, a keyboard, and a joystick. The other receiver is called the WISH Link. It does everything the standard Receiver does, but it also does physical switching.<br /><br />The WISH Plate is something a little different, but still within the WISH line. It's essentially a way for us to turn a standard laptop into one of the AAC devices I mentioned earlier. So you would use one of our mounting plates to attached a computer to the front of it and then connect the computer and the plate together with two cables. It includes a speaker, a USB hub, and a switch interface. It's the switch interface that really ties the Plate to the WISH line. It has ports for 4 switches, and can be reprogrammed in the same way that the Stick and Box can be. It also has a WISH Receiver built right into it, so that a computer that's attached to it can be controlled with a Stick or a Box, without needing an external Receiver plugged into the computer.<br /><br />The last thing is a piece of software called WISH List. If someone wants to change the settings of the Stick or Box or Plate, they can plug it into a computer's USB port and run the software to do so. Most people will just need to press the button labelled "PROGRAM DEVICE", and then they pick a file that contains all of the settings as a template. But there's also a button labelled "Advanced Mode", which takes you to a more complex program where you can modify individual settings one-by-one or build new templates from scratch. </p></div>
+
+<!--<p id="swingawaypar" class="featurettepar">The Swing Away Release was designed to provide easier maneuverability of your Lift and Lock System. Once you find a position for your system that works best for you everything can be locked into place with the applicable handles and screws.<br /><br />Should you want to move your system for any reason, there is no need to unlock everything and loose the position that you've decided is ideal. Instead you can simple press of the handles on the Swing Away Release to move your entire system. When you are ready for it again it can swing back, clicking into its predetermined position.</p></div>-->
+
+
+<div class="displaybox " id="displaybox2"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/joystick-disability-assistance-device-communication.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/joystick-disability-assistance-wheelchair-device-communication.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/joystick-disability-assistance-computer-device-communication.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">USB Joysticks</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="joysticks(this)" id="buildyoursystem" style="margin-top:700px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Joysticks<img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="joystickpar" class="featurettepar">Joysticks are an excellent way for users to interact with any assistive technology they might have. They are easy to use and installation is simple with USB Plug-and-Play technology and either a Lift and Lock System or a Tube and Socket System will hold it in place easily. It is a simple device that makes a big difference in the lives of its users, giving them the ability to better control their environment or devices.<br /><br /> What makes these joysticks different from any other joystick is that they were designed specifically for this purpose. They are built knowing that they will likely be used all day, every day- circumstance that a regular joystick just won't stand up in. </p></div>
+
+
+<div class="displaybox" id="displaybox3"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/hockey-wrist-sports-disability-equipment-assistance-device.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/hockey-wrist-sports-disability-amputee-equipment-assistance-device.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/hockey-wrist-sports-prosthetic-disability-equipment-assistance-device.jpg" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Heavy Duty Hockey Wrist</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<p id="hockeywristpar" class="featurettepar">The Heavy Duty Hockey Wrist provides someone with an amputated hand the opportunity to play the game they love. Holding a hockey stick requires two points of contact for the majority of gameplay, but for someone with only one hand this can prove to be an unsurpassable obstacle. <br /><br /> The Heavy Duty Hockey Wrist connects a pre-existing prosthetic joint with the end of the hockey stick, giving the necessary second point of contact. It holds the end of the stick with a double ball pivot to allow for a wide range of motion and a quick disconnect.</p></div>
+
+
+<div class="displaybox" id="displaybox4"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/swivel-arm-rest-wheelchair-accesible-customizable-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/swivel-arm-rest-wheelchair-accesible-customizable-positional-devices.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Swivel Arm Rest</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<p id="armrestpar" class="featurettepar">The Swivel Arm Rest is a simple arm rest design that offers the flexibility of a pivoting movement. Because every user in a wheelchair or power chair is different in one way or another, it can be difficult to make a mass-produced chair comfortable for a unique user. The Swivel Arm Rest adds a level of customization to the chair in that the user is free to position their arm at an angle of their choosing as opposed to the straight arm rest that comes standard on so many wheelchairs. <br /><br />The Swivel Arm Rest mounts to a wheelchair or power chair in place of the existing arm rest making it sturdy while still allowing the pivoting action. </p></div>
+
+
+<div class="displaybox" id="displaybox5"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/bicycle-sports-disability-equipment-assistive-device.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<h2 class="newtitle" style="margin-left:75px;">Uni-Crank Bike Pedal</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<p id="unicrankpar" class="featurettepar">The Uni-Crank Bike Pedal is a unique attachment for bikers with a leg amputation or a situation where one leg might be shorter than the other. The Uni-Crank mounts to one side of a bike in place of a regular pedal. The rider then uses the bike with the Uni-Crank in place to find out which length of crank is most desirable.<br /><br />The Uni-Crank can also be used in situations where a user has limited motion in one or both of their legs. The offset pivot point helps to compensate for this limited motion while allowing the user to propel the bike forward. </p></div>
+
+
+<div class="displaybox" id="displaybox6"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/double-bone-arms-mounting-arm-wheelchair-mounting-disability-assistance-equipment.jpg" alt="Wheelchair Mounting Disability Custom Accessibility Equipment"/><img class="secondpic" src="what's new page/double-bone-mounting-arm-wheelchair-mounting-disability-assistance-equipment.jpg" alt="Wheelchair Mounting Disability Custom Accessibility Equipment"/><img class="thirdpic" src="what's new page/double-bone-two-arms-mounting-arm-wheelchair-mounting-disability-assistance-equipment.jpg" alt="Wheelchair Mounting Disability Custom Accessibility Equipment"/><img class="fourthpic" src="" alt="Wheelchair Mounting Disability Custom Accessibility Equipment"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Double Bone</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:700px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System<img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="doublebonepar" class="featurettepar">The Double Bone is a new arm segment design that provides as way to split an arm, giving two mounting points instead of one. This means two arm segments can mount to one joint.<br /><br />This opportunity allows for a secondary arms to be mounted alongside the original arm or for a split to be incorporated partway through an arm. This addition adds more possibilities for customization to better suit the needs of the user.</p></div>
+
+
+<div class="displaybox " id="displaybox7"><div class="featurettepic"><img class="firstpic" src="what's new page/instrument-mounting-disability-assistance-device-music-disabled.jpg"  alt=""/><img class="secondpic" src="what's new page/instrument-mounting-disability-assistance-device-musical-stand-mount.jpg" alt=""/><img class="thirdpic" src="what's new page/instrument-mounting-disability-assistance-device-disabled-musical-instrument.jpg" alt=""/><img class="fourthpic" src="" alt=""/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Instrument Mounting Attachment</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<p id="instrumentpar" class="featurettepar">A design solution where we can give a child the opportunity to express his or herself is something we are always excited about. This case in particular was something to get excited over because this child wanted to play the Baritone but the inability to hold the instrument was getting in the way. <br /><br />This device is designed to clamp onto the Baritone in a non-cumbersome way. Once installed, the wedge can fit into any of the Lift and Lock arms, holding the horn for the child. Now it can be played without having to hold it in hand. It is as simple as resting a hand near the valves to play the notes and blowing into the mouthpiece. 
+</p></div>
+
+
+
+<div class="displaybox" id="displaybox8"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/serrated-socket-bar-tilted-wheelchair--wheelchair-mouting-disability-devices-assistance-systems-angled.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/serrated-socket-bar-tilted-chair--wheelchair-mouting-disability-devices-assistance-systems.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/serrated-socket-bar-tilted-wheelchair--wheelchair-mouting-disability-devices-assistance-systems.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="what's new page/serrated-socket-bar-wheelchair-mouting-disability-devices-assistance-systems.jpg" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Serrated Socket Bar</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:740px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System<img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="socketbarpar" class="featurettepar">The Serrated Socket Bar has a similar purpose to a standard Socket Bar but functions with a slight difference. Like any other Socket Bar, the Serrated Socket Bar is mounted to a wheelchair using the appropriate Frame Clamps and is intended to receive the Vertical Bars of the Lift and Lock System which in turn host your Lift and Lock Arm. <br /><br />The difference in functionality comes into play when the wheelchair or power chair that it is mounted to tilts or has angled front-to-back tubing. The Serrated Socket Bar can be mounted to such situations with frames clamps, and the serration allows the Vertical Bars it is housing remain vertical.</p></div>
+
+
+
+<div class="displaybox" id="displaybox9"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/table-mount-desktop-assistance-device-wheelchair-mounting.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/table-mount-coffee-table-disability-assistance-device-wheelchair-mounting.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/table-mount-desktop-disability-assistance-device-wheelchair-mounting.jpg" alt="Wheelchair Disability Custom Hand Switches" style="margin-top:-90px; position:absolute;"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/><div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div>
+</div>
+<div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Lift and Lock Table Mount</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:740px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System<img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="tablemountpar" class="featurettepar">Like our Rolling Floor Stand, the Lift and Lock Table Mount is a rugged and portable receptacle for your existing Lift and Lock System. When coupled with either a Head and Tail Arm or a Head and Tail with Riser Arm serves to hold a variety of devices, trays and other items while the user is at the table. Simply remove your system by the Vertical Bar and insert that bar into the Table Mount. The handle on the Table mount can then lock the Vertical Bar in place.<br /><br />The two front legs of the Table Mount can be manipulated around obstacles and provide a great deal of balance to stop your system from tipping. For travel the legs can be folded in completely to reduce the overall footprint.</p></div>
+
+
+
+<div class="displaybox" id="displaybox10"><div class="featurettepic"> <img class="firstpic visible" src="what's new page/access-switches-assistive-living-devices-wheelchair-buttons-large-target.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="secondpic" src="what's new page/access-switches-assistive-living-devices-wheelchair-buttons-heavy-duty.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/access-switches-assistive-living-devices-wheelchair-buttons-big-button-target.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Paddle Switch</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="headswitches(this)" id="buildyoursystem" style="margin-top:700px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Head Switches <img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="paddleswitchpar" class="featurettepar">The Paddle Switch was designed for a client that needed to use a hand switch in order to fully access their power chair. This user was experiencing difficulty with standard existing buttons and switches because they offer only a small surface upon which to activate them. This particular user found it too difficult to hit such a small target. <br /><br />The Paddle Switch offers what a regular switch or button does not. The activating surface of the Paddle Switch is customizable and therefore can come in almost any size. This way the user can move their hand without the precision required for smaller buttons. A larger target makes to switch much easier to activate.</p></div>
+
+
+
+<div class="displaybox" id="displaybox11"><div class="featurettepic"> <img class="firstpic" src="what's new page/x-box-playstation-controller--disability-assistance-device-communication.jpg" alt="X-Box and Playstation game controllers disability wheelchair mounting"/><img class="secondpic" src="what's new page/x-box-playstation-controller-wheelchair-mounting.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="thirdpic" src="what's new page/x-box-playstation-controller-disability-assistance-device-video-game-mounting-wheelchair.jpg" alt="Wheelchair Disability Custom Hand Switches"/><img class="fourthpic" src="" alt="Wheelchair Disability Custom Hand Switches"/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Gamer</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:700px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System <img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="gamerpar" class="featurettepar">The Gamer is a mounting system design for mounting various video game controllers to a Lift and Lock System. It was started as a custom design job for a client that lacked the strength to hold up the game controller. The desire to play the game was as present as it is with most children, but the physical capacity just was not there. To get around this obstacle, we created the Gamer. <br /><br />The Gamer is a mounting device that attaches a standard wedge to the game controller. This means that the weight of the controller can be received by a Lift and Lock Arm. To use the controller the user's hand can rest on top of the controller, not even needing to support the weight of his or her own hand. </p></div>
+
+
+<div class="displaybox" id="displaybox12"><div class="featurettepic"><img class="firstpic" src="what's new page/hammer-head-custom-prosthetics-attachment-independent-living.jpg" alt="Hammer Prosethic Attachment"/><img class="secondpic" src="what's new page/hammer-head-heavy-duty-prosthetics-attachment-tool-independent-living.jpg" alt="Hammer Prosthesis"/><img class="thirdpic" src="what's new page/hammer-head-custom-prosthetics-attachment-tool-independent-living-2.jpg" alt="Tool Hardware Amputee Device"/><img class="fourthpic" src="" alt=""/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Hammer Prosthesis</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+
+
+<p id="tubeandsocketpar" class="featurettepar">This Hammer Prosthesis is designed to give someone with a hand amputation the ability to use a hammer. By nature, the act of hammering is rough and physically demanding. A prosthesis in this situation would have to be equally tough in order to stand up to the task.<br /><br /> The durable stainless steel adapter can fit into existing prostheses, making the hammer head an extension of the user's arm. The pin holes in the adapter face give it the ability to be positioned at various angles to the user's forearm. </p></div>
+
+
+
+<div class="displaybox" id="displaybox13"><div class="featurettepic"><img class="firstpic" src="what's new page/rolling-stand-accessible-everywhere-assistive-device-mounting.JPG" style="margin-top:-90px; position:absolute;" alt="Rolling Floor Stand for holding assistive devices"/><img class="secondpic" src="what's new page/rolling-floor-stand-accessible-everywhere-industrial-assistive-device-mounting.jpg" alt="Rolling Floor Stand for wheelchair accessories"/><img class="thirdpic" src="what's new page/rolling-floor-stand-heavy-duty-accessible-everywhere-assistive-device-mounting.jpg"  alt="Mobile Rolling Stand for holding devices"/><img class="fourthpic" src="" alt=""/>
+</div>
+<div onclick="menuleft(this)" onmouseover="featurettemenuleft(this)" onmouseout="featurettemenulefthide(this)" class="featurettemenuleft"><img src="navigation-arrow-what's-new-left.png" class="featurettarrow" /></div><div onclick="menuright(this)" onmouseover="featurettemenuright(this)" onmouseout="featurettemenurighthide(this)" class="featurettemenuright"><img src="navigation-arrow-what's-new.png" class="featurettarrow" /></div>
+<h2 class="newtitle" style="margin-left:75px;">Rolling Floor Stand</h2>
+<img onclick="backdrop(this)" src="what's new page/exit-icon.jpg" class="exiticon" />
+<div onclick="liftandlocksystem(this)" id="buildyoursystem" style="margin-top:700px; position:absolute; margin-left:125px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:24px; width:300px; height:50px; cursor:pointer;">Lift and Lock System <img style="height:30px; margin-left:20px; position:absolute;" src="navigation arrow.png" /></div>
+
+<p id="rollingstandpar" class="featurettepar">The Rolling Floor Stand is a device that adds a great deal of functionality to the Lift and Lock System.  It acts as another platform to hold any of the vertical bars that are currently hosting your Lift and Lock Arm.  Your system can easily be removed from wherever it might be at present by loosening the appropriate handle and in turn, can be inserted into the Rolling Floor Stand.<br /><br />Being able to host your system apart from a wheelchair means it can follow you almost anywhere you go. The Rolling Floor Stand is great for holding a device next to a bed, table or chair with the freedom of being able to roll to a different location.
+</p></div>
+</div>
+
+<div class="everythingelse">
+<div id="specificationsscroll" class="menu1" style="top:2200px; width:1180px; position:absolute; left:50%; margin-left:-590px; font-family:'Roboto Lt', 'Roboto', 'sans-serif'; font-size:10px; text-align:center;">Ideas for Independent Living 2014</div>
+</div>
+<!-- InstanceEndEditable -->
+
+</body>
+<!-- InstanceEnd --></html>
