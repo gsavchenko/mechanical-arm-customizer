@@ -23,8 +23,8 @@
     <!-- JavaScript Section -->
     <script src="Scripts/lib/three.js/build/three.min.js"></script>
     <script src="Scripts/lib/three.js/build/TrackballControls.js"></script>
-    <script src="Scripts/lib/three.js/examples/js/loaders/OBJLoader.js"></script>
-    <script src="Scripts/lib/three.js/examples/js/loaders/MTLLoader.js"></script>
+    <script src="Scripts/lib/three.js/loaders/OBJLoader.js"></script>
+    <script src="Scripts/lib/three.js/loaders/MTLLoader.js"></script>
     <script src="Scripts/lib/dat-gui/build/dat.gui.min.js"></script>
     <script src="Scripts/lib/stats.js/build/stats.min.js"></script>		
 
